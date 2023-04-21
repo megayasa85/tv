@@ -71,4 +71,4 @@ https://k.ksa.my.id/ksa.m3u8?a=0c7411d72f4de5e981eb&b=64c3598d3934bddba329&c=a4f
 #EXTINF:-1 tvg-id="Net..Id" tvg-logo="https://cdn.ksa.my.id/net.png" group-title="National TV", Net.
 https://raw.githubusercontent.com/megayasa85/tv/main/ts.m3u
 #EXTINF:-1 tvg-id="MNCTV.Id" tvg-logo="https://cdn.ksa.my.id/mnctv.png" group-title="National TV",MNCTV
-https://raw.githubusercontent.com/megayasa85/tv/main/mnc.m3u
+https://raw.githubusercontent.com/megayasa85/tv/main/moji.m3u
