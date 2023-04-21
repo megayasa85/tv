@@ -72,3 +72,7 @@ https://k.ksa.my.id/ksa.m3u8?a=0c7411d72f4de5e981eb&b=64c3598d3934bddba329&c=a4f
 https://raw.githubusercontent.com/megayasa85/tv/main/ts.m3u
 #EXTINF:-1 tvg-id="Moji" tvg-logo="https://cdn.ksa.my.id/mnctv.png" group-title="National TV",MNCTV
 https://raw.githubusercontent.com/megayasa85/tv/main/moji.m3u
+#EXTINF:-1 tvg-logo="http://id-11.hostddns.us:9727/iptv/rcti.png" group-title="Nasional",RCTI+
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti|Referer=https://m.rctiplus.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
