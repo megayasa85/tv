@@ -67,7 +67,7 @@ https://k.ksa.my.id/ksa.m3u8?a=33cbc98636ea6b2b4a28&b=a457cd239f7e72b12c6d&c=fe2
 #EXTINF:-1 tvg-id="ANTV.Id" tvg-logo="https://cdn.ksa.my.id/antv.png" group-title="National TV", ANTV
 https://k.ksa.my.id/ksa.m3u8?a=f13971dec1cad587b444&b=dfbcf594b1140d2356db&c=7252755d856256bfe598
 #EXTINF:-1 tvg-id="KompasTV.Id" tvg-logo="https://cdn.ksa.my.id/kompastv.png" group-title="National TV", Kompas TV
-https://raw.githubusercontent.com/megayasa85/tv/main/kompas.m3u
+https://k.ksa.my.id/ksa.m3u8?a=0c7411d72f4de5e981eb&b=64c3598d3934bddba329&c=a4fd1185f4416865b4ea
 #EXTINF:-1 tvg-id="Net..Id" tvg-logo="https://cdn.ksa.my.id/net.png" group-title="National TV", Net.
 https://k.ksa.my.id/ksa.m3u8?a=da0b37f32d7a7cba6000&b=f9779b62610627bed1b4&c=9d2c4ae32f2ac6aa5c42
 #EXTINF:-1 tvg-id="MNCTV.Id" tvg-logo="https://cdn.ksa.my.id/mnctv.png" group-title="National TV",MNCTV
