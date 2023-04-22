@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Trans7.Id" group-title="National TV" tvg-logo="https://cdn.ksa.my.id/trans7.png",TRANS7(D)
+#EXTINF:-1 tvg-id="Trans7.Id" group-title="National TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png,TRANS7(D)
 https://raw.githubusercontent.com/megayasa85/tv/main/t7daily
-#EXTINF:-1 tvg-id="Trans7.Id" group-title="National TV" tvg-logo="https://cdn.ksa.my.id/trans7.png",TRANS7
+#EXTINF:-1 tvg-id="Trans7.Id" group-title="National TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1440823282_b744100_sleng.m3u8
-#EXTINF:-1 tvg-id="TransTV.Id" group-title="National TV" tvg-logo="https://cdn.ksa.my.id/transtv.png",TRANSTV
+#EXTINF:-1 tvg-id="TransTV.Id" group-title="National TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1178308444_b744100_sleng.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://cdn.ksa.my.id/cnnindo.png",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w449585463_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="tvone.Id" group-title="National TV" tvg-logo="https://cdn.ksa.my.id/trans7.png",tvone(yt)
+#EXTINF:-1 tvg-id="tvone.Id" group-title="National TV" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png",tvone(yt)
 https://raw.githubusercontent.com/megayasa85/tv/main/Tvoneyt
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://cdn.ksa.my.id/cnbcindonesia.png",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w525349813_b384000_sleng.m3u8
@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/megayasa85/tv/main/antv.m3u
 https://k.ksa.my.id/ksa.m3u8?a=0c7411d72f4de5e981eb&b=64c3598d3934bddba329&c=a4fd1185f4416865b4ea
 #EXTINF:-1 tvg-id="KompasTV.Id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png", Kompas TV(B)
 https://raw.githubusercontent.com/megayasa85/tv/main/kompas.m3u
-#EXTINF:-1 tvg-id="Net..Id" tvg-logo="https://cdn.ksa.my.id/net.png" group-title="National TV", Net.
+#EXTINF:-1 tvg-id="Net..Id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.jpg" group-title="National TV", Net.
 https://raw.githubusercontent.com/megayasa85/tv/main/netyt
 #EXTINF:-1 tvg-id="Moji" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="National TV",MNCTV
 https://raw.githubusercontent.com/megayasa85/tv/main/mnc.m3u
