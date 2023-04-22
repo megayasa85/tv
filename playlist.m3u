@@ -33,6 +33,8 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/bizadventure.png" group-title="National TV", Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/chunklist_w1434472668_b5256000_slen.m3u8
 https://raw.githubusercontent.com/megayasa85/tv/main/sctv.m3u
+
+
 #EXTINF:-1 tvg-id="unifiSports1.My" tvg-logo="https://cdn.ksa.my.id/unifisports1.png" group-title="Malaysia",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-id="unifiSports2.My" tvg-logo="https://cdn.ksa.my.id/unifisports2.png" group-title="Malaysia",Unifi Sports 2
@@ -72,3 +74,6 @@ https://raw.githubusercontent.com/megayasa85/tv/main/aniplus.m3u
 http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
 #EXTINF:-1 tvg-logo="http://id-11.hostddns.us:9727/iptv/rcti.png" group-title="Nasional",Indonesia channel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+#MOVIES
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="Movies",Celestial Movies Indonesia
+https://raw.githubusercontent.com/megayasa85/tv/main/Celestialmovies
