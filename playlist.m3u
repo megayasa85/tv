@@ -75,7 +75,7 @@ https://k.ksa.my.id/ksa.m3u8?a=0c7411d72f4de5e981eb&b=64c3598d3934bddba329&c=a4f
 #EXTINF:-1 tvg-id="KompasTV.Id" tvg-logo="https://cdn.ksa.my.id/kompastv.png" group-title="National TV", Kompas TV(B)
 https://raw.githubusercontent.com/megayasa85/tv/main/kompas.m3u
 #EXTINF:-1 tvg-id="Net..Id" tvg-logo="https://cdn.ksa.my.id/net.png" group-title="National TV", Net.
-https://raw.githubusercontent.com/megayasa85/tv/main/ts.m3u
+https://raw.githubusercontent.com/megayasa85/tv/main/netyt
 #EXTINF:-1 tvg-id="Moji" tvg-logo="https://cdn.ksa.my.id/mnctv.png" group-title="National TV",MNCTV
 https://raw.githubusercontent.com/megayasa85/tv/main/mnc.m3u
 #EXTINF:-1 tvg-logo="http://id-11.hostddns.us:9727/iptv/rcti.png" group-title="Nasional",RCTI+
