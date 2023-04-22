@@ -84,9 +84,10 @@ https://raw.githubusercontent.com/megayasa85/tv/main/TVN
 https://raw.githubusercontent.com/megayasa85/tv/main/Lovenature
 #EXTINF:0 tvg-logo="https://api.duniagames.co.id/api/content/upload/file/15974662431598594306.png" group-title="Knowledge",Dunia games
 https://raw.githubusercontent.com/megayasa85/tv/main/Duniagame
+
 #SPORT
 #EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-logo="https://1.bp.blogspot.com/-3HPBqBvSsZ0/YJbSe_7BpRI/AAAAAAAAE6s/1YDBnqoHp9YlB7hFqIk3Hig0LfONM5PoQCLcBGAsYHQ/s720/truepremierfootballhd1-p.png" group-title="Sports", True Premier HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8?|referer=https://www.youdooball.com/
-https://sport.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-https://www.movie87hd.com/
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
+
