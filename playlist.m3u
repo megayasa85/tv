@@ -92,13 +92,22 @@ https://raw.githubusercontent.com/megayasa85/tv/main/Duniagame
 https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
 
 #EXTINF:1 tvg-id="TruePremierFootball2.th" tvg-logo="https://1.bp.blogspot.com/-yzWr02XHJm4/YJbSfD8xspI/AAAAAAAAE6w/JcWaXLL0mOIO-WT7KQhDikhRTTXzozlSQCLcBGAsYHQ/s720/truepremierfootballhd2-p.png" group-title="Sports", True Premier HD 2
-https://sport.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://sport.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
 
 #EXTINF:1 tvg-id="TruePremierFootball3.th" tvg-logo="https://1.bp.blogspot.com/-8LaQwQnmsrI/YJbSfpEZGII/AAAAAAAAE60/83GZtvmmQKo6Whd1YR9FpKf3QYqaimZ9ACLcBGAsYHQ/s720/truepremierfootballhd3-p.png" group-title="Sports", True Premier HD 3
-https://sport.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://sport.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
 
 #EXTINF:1 tvg-id="TruePremierFootball4.th" tvg-logo="https://1.bp.blogspot.com/-A3hMBAbTqss/YJbSf6_wejI/AAAAAAAAE64/iDPt-rS2uMI0FgQTMoIrivdR7Le6L7pfQCLcBGAsYHQ/s720/truepremierfootballhd4-p.png" group-title="Sports", True Premier HD 4
-https://sport.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://sport.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
 
 #EXTINF:1 tvg-id="TruePremierFootball5.th" tvg-logo="https://1.bp.blogspot.com/-Jkw9j4WQF_g/YJbSgM64MoI/AAAAAAAAE68/8xlQW1abuac0HugyCkh0JIxJpCEqdOwHgCLcBGAsYHQ/s720/truepremierfootballhd5-p.png" group-title="Sports", True Premier HD 5
-https://sport.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://sport.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
+
