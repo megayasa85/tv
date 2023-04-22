@@ -77,3 +77,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-48
 https://raw.githubusercontent.com/megayasa85/tv/main/Celestialmovies
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_415.png" group-title="Movies",TVN Movies Indonesia
 https://raw.githubusercontent.com/megayasa85/tv/main/tVnmovies
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_0.png" group-title="Entertainment",TVN
+https://raw.githubusercontent.com/megayasa85/tv/main/TVN
+
