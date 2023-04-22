@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/megayasa85/tv/main/indosiar.m3u
 #EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://cdn.ksa.my.id/indosiar.png" group-title="National TV", INDOSIAR(B)
 https://k.ksa.my.id/ksa.m3u8?a=33cbc98636ea6b2b4a28&b=a457cd239f7e72b12c6d&c=fe251b8cbf412cf05603
 #EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://cdn.ksa.my.id/indosiar.png" group-title="National TV", INDOSIAR(T)
-https://raw.githubusercontent.com/megayasa85/tv/main/indosiar
+https://etslivehttps://etslive-2-vidio-com.akamaized.net/exp=1682153332~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=151baae42607e5701fe9e02bda177560942b46bac340d0896e56ef2190c8c57e/vp9/205_stream.mpd
 #EXTINF:-1 tvg-id="ANTV.Id" tvg-logo="https://cdn.ksa.my.id/antv.png" group-title="National TV", ANTV
 https://raw.githubusercontent.com/megayasa85/tv/main/antv.m3u
 #EXTINF:-1 tvg-id="KompasTV.Id" tvg-logo="https://cdn.ksa.my.id/kompastv.png" group-title="National TV", Kompas TV
