@@ -87,9 +87,9 @@ https://raw.githubusercontent.com/megayasa85/tv/main/Duniagame
 
 #SPORT
 #EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-logo="https://1.bp.blogspot.com/-3HPBqBvSsZ0/YJbSe_7BpRI/AAAAAAAAE6s/1YDBnqoHp9YlB7hFqIk3Hig0LfONM5PoQCLcBGAsYHQ/s720/truepremierfootballhd1-p.png" group-title="Sports", True Premier HD 1
-
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
 https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+
 #EXTINF:1 tvg-id="TruePremierFootball2.th" tvg-logo="https://1.bp.blogspot.com/-yzWr02XHJm4/YJbSfD8xspI/AAAAAAAAE6w/JcWaXLL0mOIO-WT7KQhDikhRTTXzozlSQCLcBGAsYHQ/s720/truepremierfootballhd2-p.png" group-title="Sports", True Premier HD 2
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
 https://sport.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
