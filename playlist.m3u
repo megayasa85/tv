@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/megayasa85/tv/main/Tvoneyt
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://cdn.ksa.my.id/cnbcindonesia.png",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w525349813_b384000_sleng.m3u8
 #https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MetroTV.Id" group-title="National TV" tvg-logo="https://cdn.ksa.my.id/metrotv.png",Metro TV
+#EXTINF:-1 tvg-id="MetroTV.Id" group-title="National TV" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w846993376_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://cdn.ksa.my.id/magna.png",Magna Channel 
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w429200424_b3884000_sleng.m3u8
@@ -38,23 +38,23 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://cdn.ksa.my.id/sctv.png" group-title="National TV", SCTV
 #EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://cdn.ksa.my.id/sctv.png" group-title="National TV", SCTV
 https://k.ksa.my.id/ksa.m3u8?a=c503fc6c5f0efeac6080&b=16c98dda3ce86e1907df&c=aa3a68bfd25acb92fcc7
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://cdn.ksa.my.id/indosiar.png" group-title="National TV", INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png" group-title="National TV",INDOSIAR
 https://raw.githubusercontent.com/megayasa85/tv/main/indosiar.m3u
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://cdn.ksa.my.id/indosiar.png" group-title="National TV", INDOSIAR(B)
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png" group-title="National TV",INDOSIAR(B)
 https://k.ksa.my.id/ksa.m3u8?a=33cbc98636ea6b2b4a28&b=a457cd239f7e72b12c6d&c=fe251b8cbf412cf05603
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://cdn.ksa.my.id/indosiar.png" group-title="National TV", INDOSIAR(T)
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png", group-title="National TV",INDOSIAR(T)
 https://raw.githubusercontent.com/megayasa85/tv/main/indosiar
-#EXTINF:-1 tvg-id="ANTV.Id" tvg-logo="https://cdn.ksa.my.id/antv.png" group-title="National TV", ANTV
+#EXTINF:-1 tvg-id="ANTV.Id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" group-title="National TV", ANTV
 https://raw.githubusercontent.com/megayasa85/tv/main/antv.m3u
-#EXTINF:-1 tvg-id="KompasTV.Id" tvg-logo="https://cdn.ksa.my.id/kompastv.png" group-title="National TV", Kompas TV
+#EXTINF:-1 tvg-id="KompasTV.Id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png", Kompas TV
 https://k.ksa.my.id/ksa.m3u8?a=0c7411d72f4de5e981eb&b=64c3598d3934bddba329&c=a4fd1185f4416865b4ea
-#EXTINF:-1 tvg-id="KompasTV.Id" tvg-logo="https://cdn.ksa.my.id/kompastv.png" group-title="National TV", Kompas TV(B)
+#EXTINF:-1 tvg-id="KompasTV.Id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png", Kompas TV(B)
 https://raw.githubusercontent.com/megayasa85/tv/main/kompas.m3u
 #EXTINF:-1 tvg-id="Net..Id" tvg-logo="https://cdn.ksa.my.id/net.png" group-title="National TV", Net.
 https://raw.githubusercontent.com/megayasa85/tv/main/netyt
-#EXTINF:-1 tvg-id="Moji" tvg-logo="https://cdn.ksa.my.id/mnctv.png" group-title="National TV",MNCTV
+#EXTINF:-1 tvg-id="Moji" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="National TV",MNCTV
 https://raw.githubusercontent.com/megayasa85/tv/main/mnc.m3u
-#EXTINF:-1 tvg-logo="http://id-11.hostddns.us:9727/iptv/rcti.png" group-title="Nasional",RCTI+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="Nasional",RCTI
 https://raw.githubusercontent.com/megayasa85/tv/main/rcti.m3u
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-khVJ1J12niY/XQzjmdtsctI/AAAAAAAAAE8/GpD4giPWpmELFg5wIto37Vtf0S8_FoMaQCK4BGAYYCw/s1600/IDX%2BCHANNEL%2BTC.png" group-title="Nasional",IDX Channel
 https://raw.githubusercontent.com/megayasa85/tv/main/idx.m3u
