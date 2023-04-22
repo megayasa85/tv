@@ -17,7 +17,7 @@ https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w846993376_b1492000_s
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://cdn.ksa.my.id/magna.png",Magna Channel 
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w429200424_b3884000_sleng.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://cdn.ksa.my.id/mgn.png",Metro Globe Network
-https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w754412833_b3884000_sleng.m3u8
+https://raw.githubusercontent.com/megayasa85/tv/main/metroglobe
 #EXTINF:-1 tvg-id="BeritaSatu.Id" tvg-logo="https://cdn.ksa.my.id/bs.png" group-title="National TV", BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/bsworld.png" group-title="National TV", BERITA SATU WORLD
