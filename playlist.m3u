@@ -92,3 +92,5 @@ https://delivery.ksa.my.id/stream/dunialain/playlist.m3u8?token=ym1wtrp&v=202008
 https://raw.githubusercontent.com/megayasa85/tv/main/aniplus.m3u
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-khVJ1J12niY/XQzjmdtsctI/AAAAAAAAAE8/GpD4giPWpmELFg5wIto37Vtf0S8_FoMaQCK4BGAYYCw/s1600/IDX%2BCHANNEL%2BTC.png" group-title="Nasional",MOJI 
 http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
+#EXTINF:-1 tvg-logo="http://id-11.hostddns.us:9727/iptv/rcti.png" group-title="Nasional",Indonesia channel
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
