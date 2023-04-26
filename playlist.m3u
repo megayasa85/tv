@@ -59,7 +59,7 @@ https://raw.githubusercontent.com/megayasa85/tv/main/mnc.m3u
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="Nasional",RCTI
 https://raw.githubusercontent.com/megayasa85/tv/main/rcti.m3u
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="Nasional",RCTI(A)
-https://bit.ly/RCTI12
+https://bit.ly/RCTI12|Referer=https://www.rctiplus.com/
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-khVJ1J12niY/XQzjmdtsctI/AAAAAAAAAE8/GpD4giPWpmELFg5wIto37Vtf0S8_FoMaQCK4BGAYYCw/s1600/IDX%2BCHANNEL%2BTC.png" group-title="Nasional",IDX Channel
 https://raw.githubusercontent.com/megayasa85/tv/main/idx.m3u
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Metro_Globe_Network.png" group-title="Nasional",Metro Globe Network
