@@ -1,5 +1,7 @@
-#EXTM3U refresh="3600"
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="Nasional",RCTI(A)
+#EXTM3U 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
 https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti
 
 
